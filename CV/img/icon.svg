@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+ <g class="layer">
+  <title>Layer 1</title>
+  <ellipse cx="272.5" cy="216.5" fill="#7f00ff" id="svg_2" rx="250" ry="105" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0"/>
+  <text fill="#007fff" font-family="serif" font-size="24" id="svg_1" stroke="#000000" stroke-width="0" text-anchor="middle" transform="matrix(4.28268 0 0 4.61538 -1469.97 -985.192)" x="406.5" xml:space="preserve" y="267.5">Diego R</text>
+  <polygon cx="247.5" cy="361.5" fill="#ffff00" id="svg_4" orient="point" point="5" points="473.5,182.494140625 482.4356994628906,208.2010498046875 509.6457214355469,208.75555419921875 487.9582824707031,225.19778442382812 495.8392639160156,251.24737548828125 473.5,235.70233154296875 451.1607208251953,251.24737548828125 459.0417175292969,225.19778442382812 437.3542938232422,208.75555419921875 464.5642852783203,208.2010498046875 473.5,182.494140625 482.4356994628906,208.2010498046875 " r="38.005848" r2="15.202339" shape="star" stroke="#000000" stroke-width="0" strokeWidth="0" strokecolor="#000000"/>
+  <polygon cx="292.5" cy="378.5" fill="#ffff00" id="svg_6" orient="point" point="5" r="0" r2="0" shape="star" strokeWidth="0" strokecolor="#000000"/>
+  <polygon cx="248.5" cy="363.5" fill="#ffff00" id="svg_7" orient="point" point="5" r="0" r2="0" shape="star" strokeWidth="0" strokecolor="none"/>
+  <polygon cx="243.5" cy="355.5" fill="#ffff00" id="svg_8" orient="point" point="5" points="243.5,355.5 243.5,355.5 243.5,355.5 243.5,355.5 243.5,355.5 243.5,355.5 243.5,355.5 243.5,355.5 243.5,355.5 243.5,355.5 243.5,355.5 243.5,355.5 " r="0" r2="0" shape="star" stroke-width="0" strokeWidth="0" strokecolor="none"/>
+  <path d="m307.020634,295.062964l-26.564796,-0.082455m0.056285,0.082455a4.948135,4.948135 0 1 1 -9.896235,0a4.948135,4.948135 0 1 1 9.896235,0zm-82.424417,11.188359l24.323349,0m-24.323349,-20.953359l25.065425,-0.164906m-7.934796,-12.670078c49.450599,0 54.893655,22.329638 54.893655,22.329638l-0.132963,0c-7.07856,26.417507 -54.893651,22.196736 -54.893651,22.196736c22.861285,-22.329654 0.132959,-44.526374 0.132959,-44.526374zm-19.685815,11.514665l2.540505,0l0,2.54052l-2.540505,0l0,-2.54052zm0.001464,20.971194l2.540509,0l0,2.540524l-2.540509,0l0,-2.540524zm111.458025,-11.305819l2.540513,0l0,2.540524l-2.540513,0l0,-2.540524z" fill="#000000" id="svg_9" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0"/>
+ </g>
+</svg>
