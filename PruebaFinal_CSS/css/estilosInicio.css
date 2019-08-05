@@ -1,0 +1,144 @@
+.Titulo, #navbar {
+  background-color: #5b7989;
+  height: inherit;
+  font-family: 'Dancing Script', cursive;
+}
+a p {
+  text-decoration-line: none;
+  font-family: 'Dancing Script', cursive;
+  color: black;
+  font-size: 1.3em;
+}
+.theHeader {
+  border-radius: 10px 10px 0 0;
+  display: flex;
+  flex-flow: row wrap;
+  height: auto;
+  animation: bounce 1s;
+}
+img {
+  margin: 20px;
+}
+.Titulo {
+  font-size: 2.3em;
+  width: 50%;
+  float: left;
+  text-shadow: 2px 2px #02010a;
+  color: white;
+}
+#navbar {
+  font-size: 1.4em;
+  width: 50%;
+  float: right;
+  text-align: right;
+}
+.EnlaceInicio {
+  text-decoration: none;
+}
+.figura1 {
+  background-color: #82c3a6;
+  display: flex;
+  justify-content: center;
+  margin: 0px;
+}
+#imagenCentral {
+  display: flex;
+  justify-content: center;
+  max-width: 700px;
+  margin: 20px;
+  clear: both;
+  width: 90%;
+}
+#FigurasSec {
+  display: flex;
+  justify-content: center;
+  background-color: #d5c75f;
+  border: 1px solid black;
+  height: 445px;
+}
+#FiguraSec1 {
+	border: none;
+  max-width: 100%;
+	transition-property: border transform box-shadow;
+	transition-duration: 1s;
+}
+#FiguraSec1:hover {
+  transform: rotate(10deg);
+  box-shadow: 2px 2px #82c3a6;
+	border: 2px solid black;
+}
+#FiguraSec2 {
+	border: none;
+  max-width: 100%;
+	transition-property: border transform box-shadow;
+	transition-duration: 1s;
+}
+#FiguraSec2:hover {
+	transform: translate(20px, -5px);
+  box-shadow:2px 2px #82c3a6;
+  border: 2px solid black;
+}
+a p {
+  text-align: center;
+}
+footer {
+    background-color: #C6d5c5;
+    display: flex;
+    flex-direction: row;
+}
+.c1, .c2, .c3, .c4{
+  font-family: 'Dancing Script', cursive;
+  font-size: 1.5em;
+  text-align: center;
+  width: 25%;
+}
+.iconos {
+  display: flex;
+  flex-flow: row;
+  justify-content: center;
+}
+.icono {
+  height: 30px;
+}
+.c3 p {
+  width: 100%;
+}
+@media all and (max-width: 900px) {
+  footer {
+    display: flex;
+    flex-direction: column;
+  }
+  .c1, .c2, .c3, .c4 {
+    width: auto;
+  }
+  #FigurasSec {
+    height: auto;
+    display: flex;
+    flex-direction: column;
+  }
+  a img {
+    clear: both;
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+  }
+  .columna {
+    width: auto;
+  }
+  .Titulo, #navbar {
+    width: 100%;
+    float: center;
+    text-align: center;
+  }
+}
+@keyframes bounce {
+  0% {
+    margin-top: 150%;
+  }
+  60% {
+    margin-top: -5%;
+  }
+  100% {
+    margin-top: 0%;
+  }
+}
