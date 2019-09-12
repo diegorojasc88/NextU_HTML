@@ -1,0 +1,32 @@
+body {
+  background-image: url("../img/background1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.transp {
+  opacity: 0.92;
+}
+
+p, a {
+  text-align: center;
+}
+
+.titulo {
+  background-color: LightGoldenRodYellow ;
+}
+
+.imgpost {
+  width: 100%;
+  height: auto;
+}
+
+.icono {
+  width: 40px;
+  height: 40px;
+}
+
+input {
+  margin-bottom: 2px !important;
+}

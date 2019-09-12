@@ -1,0 +1,45 @@
+body {
+  background-color: orange;
+  background-image: url("../img/fondo.jpg");
+  background-position: bottom;
+  background-repeat: no-repeat;
+  background-size: 100% 86%;
+  background-attachment: fixed;
+}
+.pad {
+  padding-top: 0.5rem !important;
+  padding-left: 0.2rem;
+  float: left !important;
+}
+.pad2 {
+  padding-top: 40px;
+}
+.pad3 {
+  padding: 10px;
+}
+.navbar {
+  height: 120px;
+}
+.icon {
+    width: 50px;
+    height: auto;
+}
+.imagen {
+  width: 100%;
+  height: auto;
+  margin: 5px;
+}
+.centrar {
+  width: 100%;
+  height: auto;
+}
+p {
+  text-align: justify;
+  font-size: 20px;
+}
+.comen {
+  background-color: lightblue !important;
+}
+.margin {
+  margin-bottom: 10px;
+}
